@@ -37,7 +37,7 @@ See the **SETUP.md** file for instructions.
 │           ├── users/
 │           │   ├── index.ts
 │           │   ├── user.dto.ts
-│           │   ├── user.interface.ts             # interface métier
+│           │   ├── user.interface.ts             # business interface
 │           │   ├── user.service.interface.ts     # gRPC methods to be implemented
 │           │   ├── user.request.interface.ts     # gRPC request structure
 │           │   ├── user.response.interface.ts    # gRPC response structure
